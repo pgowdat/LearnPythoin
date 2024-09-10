@@ -1,5 +1,5 @@
 import threading
-import time
+import D26_time
 from concurrent.futures import ThreadPoolExecutor
 
 # Indicates some task being done

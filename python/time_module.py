@@ -1,4 +1,4 @@
-import time 
+import D26_time
 
 
 timestamp = time.strftime('%H:%M:%S')

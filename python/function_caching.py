@@ -3,7 +3,7 @@ of a function call so that you can reuse the results instead of recomputing them
  function is called."""
 
 from functools import lru_cache
-import time
+import D26_time
 
 @lru_cache(maxsize=None)
 def fx(n):

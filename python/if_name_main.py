@@ -1,3 +1,0 @@
-import pavan
-
-pavan.welcome()
